@@ -1,6 +1,18 @@
 .light-box {
   width: 500px;
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  /*
+    margin can also be written like this:
+    margin: [ALL VALUES] (if there is one entry)
+    margin: [TOP AND BOTTOM] [LEFT AND RIGHT] (if there are two values)
+    margin [TOP] [LEFT] [BOTTOM] [RIGHT]
+
+    margin: 50px;
+
+  */
   padding: 50px;
   background-color: lightblue;
   border-radius: 25px;
