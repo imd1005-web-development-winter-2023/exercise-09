@@ -1,0 +1,65 @@
+.light-box {
+  /*
+    Add your styles here
+    width
+    margin-top
+    margin-bottom
+    margin-left
+    margin-right
+    padding-top
+    padding-left
+    padding-bottom
+    padding-right
+    border-radius
+    background-color
+    color
+  */
+}
+
+.box-sizing-light-box {
+  /* leave this style in */
+  box-sizing: border-box;
+  /*
+    Add your styles here
+    width
+    margin-top
+    margin-bottom
+    margin-left
+    margin-right
+    padding-top
+    padding-left
+    padding-bottom
+    padding-right
+    border-radius
+    background-color
+    color
+  */
+}
+
+.dark-box {
+  /*
+    Add your styles here
+    width
+    margin-top
+    margin-bottom
+    margin-left
+    margin-right
+    padding-top
+    padding-left
+    padding-bottom
+    padding-right
+    border-radius
+    background-color
+    color
+  */
+
+  /*
+    BONUS: Look up LINEAR GRADIENT for background
+    https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient
+  */
+}
+
+/******************************/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
