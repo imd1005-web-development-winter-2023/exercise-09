@@ -10,7 +10,7 @@ Welcome to exercise 09 - let's practice using CSS box model.
 4. Create a CSS file in your local working folder and call it `style.css`
 5. Copy the contents of the `style.css` file in this repository into the local CSS file you created
 6. Follow the instructions provided in the `styles.css` file and use the finished example as a guide
-7. You don't need to get the colours perfectly, in fact, it's encouraged that you experiment with the present colours available
+7. You don't need to get the colours perfectly, in fact, it's encouraged that you experiment with different colours to make your design even more awesome
 8. If you get stuck, have a look inside the `\solution` folder for one way of putting this together
 
 ## Final Solution
